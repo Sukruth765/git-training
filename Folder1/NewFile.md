@@ -1,3 +1,1 @@
 This is some text
-
-This is a second line
